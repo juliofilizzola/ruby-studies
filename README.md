@@ -9,8 +9,6 @@ Nesse repositório, contém estudos dde forma basica da linguagém Ruby.
   - [Proposito](#proposito)
   - [Estudos](#estudos)
   - [Como Iniciar](#como-iniciar)
-  - [Rotas](#rotas)
-  - [Banco de Dados](#banco-de-dados)
 
 ## Proposito
 
