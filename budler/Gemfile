@@ -1,0 +1,4 @@
+source 'https://rubygems.org'
+# esse arquivo é como se fosse o package.json
+gem 'lerolero_generator'
+gem 'cpf_utils'
